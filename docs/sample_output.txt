@@ -7,7 +7,7 @@
 6. Exit
 Enter your choice: 1
 Enter account number: 1001
-Enter name: Alice
+Enter name: Balaji
 Enter initial deposit: 5000
 Account created successfully!
 
@@ -45,7 +45,7 @@ Withdrawal successful. New balance: 4500.00
 Enter your choice: 4
 Enter account number: 1001
 Account Number: 1001
-Name: Alice
+Name: Balaji
 Balance: 4500.00
 
 ----- Bank Application -----
@@ -57,7 +57,7 @@ Balance: 4500.00
 6. Exit
 Enter your choice: 5
 ----- Transaction History -----
-Account: 1001 | Name: Alice | Balance: 4500.00
+Account: 1001 | Name: Balaji | Balance: 4500.00
 
 Enter your choice: 6
 Exiting...
