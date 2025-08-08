@@ -57,7 +57,20 @@ Balance: 4500.00
 6. Exit
 Enter your choice: 5
 ----- Transaction History -----
-Account: 1001 | Name: Balaji | Balance: 4500.00
+Account: 1001 | Name: Balaji | Balance: 4500.00 
+
+----- Bank Application -----
+1. Create Account
+2. Deposit
+3. Withdraw
+4. Balance Inquiry
+5. Transaction History
+6. Exit
+Enter your choice: 1
+Enter account number: 1002
+Enter name: Bob
+Enter initial deposit: 3000
+Account created successfully!
 
 Enter your choice: 6
 Exiting...
