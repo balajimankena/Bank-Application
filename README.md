@@ -18,3 +18,18 @@ This project is a menu-driven banking management system written in **C++** using
 1. On startup, the program loads account data from `bank_data.txt`.
 2. Users can perform various banking operations via a menu.
 3. All changes are saved back to the file after each transaction.
+
+## File Structure
+Bank-Application/
+│
+├── code/
+│ └── bank_application.cpp # Main source code
+├── docs/
+│ └── sample_output.txt # Example run of the program
+└── bank_data.txt # File storing account information
+
+## Sample Output
+See [`docs/sample_output.txt`](docs/sample_output.txt) for an example program run.
+
+## Author
+C N Sri Balaji Vara Prasad Mankena
